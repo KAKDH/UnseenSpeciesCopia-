@@ -2,7 +2,7 @@
 Notes and materials for "Unseen Species Modelling Applied to Medieval Literature" workshop run by Elisabeth de Bruijn, Mike Kestemont, and Katarzyna Anna Kapitan at the seminar [Digital Approaches to Pre-Modern Texts and Manuscripts](https://www.chartes.psl.eu/gazette-chartiste/agenda/digital-approaches-pre-modern-texts-and-manuscripts) 10-12 June 2024, ENC-PSL in Paris. 
 
 # Workshop Description
-This workshop provides a hands-on introduction to estimating the diversity and loss of cultural artefacts—such as species, texts, or object types—based on abundance data. Using medieval chivalric literature as a case study, the workshop introduces participants to the [Copia package](https://copia.readthedocs.io/en/latest/intro.html), a statistical toolkit developed by Mike Kestemont and Folgert Karsdorp. Copia was used in recent research on the survival of medieval chivalric and heroic literature ([Kestemont et al. 2022](https://gwern.net/doc/statistics/survival-analysis/2022-kestemont.pdf)).
+This workshop provides a hands-on introduction to estimating the diversity and loss of cultural artefacts—such as species, texts, or object types—based on abundance data. Using medieval chivalric literature as a case study, the workshop introduces participants to the [Copia package](https://copia.readthedocs.io/en/latest/intro.html), a statistical toolkit developed by Mike Kestemont and Folgert Karsdorp. Copia was used in recent research on the survival of medieval chivalric and heroic literature (Kestemont et al. 2022, [paper](https://gwern.net/doc/statistics/survival-analysis/2022-kestemont.pdf),[supplementary materials]((https://www.science.org/action/downloadSupplement?doi=10.1126%2Fscience.abl7655&file=science.abl7655_sm.pdf).)).
 
 The workshop will:
 
