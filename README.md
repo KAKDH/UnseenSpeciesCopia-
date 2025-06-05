@@ -1,4 +1,4 @@
-# UnseenSpeciesCopia-
+# UnseenSpeciesCopia
 Notes and materials for "Unseen Species Modelling Applied to Medieval Literatur" workshop run by Elisabeth de Bruijn, Mike Kestemont, and Katarzyna Anna Kapitan at the seminar [Digital Approaches to Pre-Modern Texts and Manuscripts](https://www.chartes.psl.eu/gazette-chartiste/agenda/digital-approaches-pre-modern-texts-and-manuscripts) 10-12 June 2024, ENC-PSL in Paris. 
 
 # Workshop Description
