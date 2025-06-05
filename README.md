@@ -5,8 +5,11 @@ Notes and materials for "Unseen Species Modelling Applied to Medieval Literature
 This workshop provides a hands-on introduction to estimating the diversity and loss of cultural artefacts—such as species, texts, or object types—based on abundance data. Using medieval chivalric literature as a case study, the workshop introduces participants to the [Copia package](https://copia.readthedocs.io/en/latest/intro.html), a statistical toolkit developed by Mike Kestemont and Folgert Karsdorp. Copia was used in recent research on the survival of medieval chivalric and heroic literature ([Kestemont et al. 2022](https://gwern.net/doc/statistics/survival-analysis/2022-kestemont.pdf)).
 
 The workshop will:
+
 – contextualise recent work in the field, including a critical discussion of methodological challenges;
+
 – introduce the theoretical background behind Chao 1 and related richness estimators;
+
 – offer a hands-on session to prepare data, run analyses using Copia, and interpret the results.
 
 Participants will leave with a better understanding of how quantitative methods can contribute to historical and literary research, and how to apply these tools in their own work.
