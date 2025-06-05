@@ -4,7 +4,7 @@ Notes and materials for "Unseen Species Modelling Applied to Medieval Literature
 # Workshop Description
 This workshop provides a hands-on introduction to estimating the diversity and loss of cultural artefacts, such as texts, or other object types—based on abundance data. Using medieval chivalric literature as a case study, the workshop introduces participants to the [Copia package](https://copia.readthedocs.io/en/latest/intro.html), a statistical toolkit developed by Mike Kestemont and Folgert Karsdorp. 
 
-Copia was used - among other studies – in recent research on the survival of medieval chivalric and heroic literature (Kestemont et al. 2022, [paper](https://gwern.net/doc/statistics/survival-analysis/2022-kestemont.pdf),[supplementary materials](https://www.science.org/action/downloadSupplement?doi=10.1126%2Fscience.abl7655&file=science.abl7655_sm.pdf)).
+Copia was used - among other studies – in recent research on the survival of medieval chivalric and heroic literature 
 
 This workshop will:
 
@@ -24,3 +24,23 @@ If you have never used Colab before joining the workshop you should:
 - Create or log in to a Google account. 
 
 - Follow at least the first 5 pages of [this tutorial](https://www.tutorialspoint.com/google_colab/index.htm), so you are familiar with the interface.
+
+# Citation 
+If you find this work useful in your research, please cite Kestemont et al. 2022, [article](https://gwern.net/doc/statistics/survival-analysis/2022-kestemont.pdf), [supplementary materials](https://www.science.org/action/downloadSupplement?doi=10.1126%2Fscience.abl7655&file=science.abl7655_sm.pdf)).
+
+```
+  @article{doi:10.1126/science.abl7655,
+    author = {Mike Kestemont and Folgert Karsdorp
+            and Elisabeth de Bruijn and Matthew Driscoll
+            and Katarzyna A. Kapitan and Pádraig Ó Macháin
+            and Daniel Sawyer and Remco Sleiderink and Anne Chao},
+    title = {Forgotten books: The application of unseen species models to
+           the survival of culture},
+    journal = {Science},
+    volume = {375},
+    number = {6582},
+    pages = {765-769},
+    year = {2022},
+    doi = {10.1126/science.abl7655},
+    URL = {https://www.science.org/doi/abs/10.1126/science.abl7655}}
+```
