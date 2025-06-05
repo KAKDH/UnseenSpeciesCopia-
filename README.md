@@ -18,5 +18,7 @@ Participants will leave with a better understanding of how quantitative methods 
 In this workshop we will be using [Google Colab](​​https://colab.research.google.com/), which  is a free cloud service where you can create and share interactive notebooks with code, text, and visualization.  
 
 If you have never used Colab before joining the workshop you should: 
-Create or log in to a Google account. 
-Follow at least the first 5 pages of [this tutorial](https://www.tutorialspoint.com/google_colab/index.htm), so you are familiar with the interface.
+
+- Create or log in to a Google account. 
+
+- Follow at least the first 5 pages of [this tutorial](https://www.tutorialspoint.com/google_colab/index.htm), so you are familiar with the interface.
