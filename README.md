@@ -25,6 +25,9 @@ If you have never used Colab before joining the workshop you should:
 
 - Follow at least the first 5 pages of [this tutorial](https://www.tutorialspoint.com/google_colab/index.htm), so you are familiar with the interface.
 
+# The notebook 
+You can find the notebook we used on [Colab](https://colab.research.google.com/drive/1utXSjOvRfVPV3H-xtAkWMr-KwoHs_7jk#scrollTo=D5k4B4HNoKSE) 
+
 # Citation 
 If you find this work useful in your research, please cite Kestemont et al. 2022, [article](https://gwern.net/doc/statistics/survival-analysis/2022-kestemont.pdf), [supplementary materials](https://www.science.org/action/downloadSupplement?doi=10.1126%2Fscience.abl7655&file=science.abl7655_sm.pdf)).
 
